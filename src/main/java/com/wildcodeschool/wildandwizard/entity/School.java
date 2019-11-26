@@ -1,5 +1,8 @@
 package com.wildcodeschool.wildandwizard.entity;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class School {
 
     private Long id;
